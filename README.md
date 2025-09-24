@@ -21,7 +21,7 @@ This website is **static**, meaning it does not require a server or database—s
 ---
 
 ## AI Usage
-AI was used to assist in **getting started with a basic foundation** for the project. From there, all content, steps, and personal experience were added manually, along with previously written code for styling and structure. AI was also utilized at the end to **clean up and format the code**, ensuring readability and consistent styling across all pages.  
+AI was used to assist in **getting started with a basic foundation** for the project as well as generating this README. From there, all content, steps, and personal experience were added manually, along with previously written code for styling and structure. AI was also utilized at the end to **clean up and format the code**, ensuring readability and consistent styling across all pages.  
 
 The project reflects a balance between **human input and AI assistance**, with AI serving as a supportive tool.
 
