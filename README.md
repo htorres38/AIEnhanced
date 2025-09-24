@@ -42,8 +42,5 @@ The project reflects a balance between **human input and AI assistance**, with A
 - Guides on **professional branding and visuals**, improving channel appeal to viewers.  
 - Useful for **educational purposes or organizational training**, making it broadly applicable beyond personal use.  
 
----
 
-## License
-This project is open-source and available for use, modification, and distribution.
 
