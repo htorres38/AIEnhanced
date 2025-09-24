@@ -3,12 +3,13 @@
 ## Project Overview
 The **YouTube Content Playbook** is a static website designed to guide aspiring content creators through the process of starting a YouTube channel. It covers selecting and testing equipment, setting up microphones and software, designing visuals using Canva, and planning content effectively. The playbook delivers **clear business value** by providing actionable, practical guidance that saves time, reduces trial-and-error, and ensures professional-quality video production.
 
-This project demonstrates skills in **front-end development**, **instructional content design**, and **user-focused guidance**, making it suitable for a job portfolio, especially for roles in data front-end web development and digital content creation.
+This project demonstrates skills in **front-end development**, **instructional content design**, and **user-focused guidance**, making it suitable for a job portfolio, especially for roles in front-end web development and digital content creation.
 
 ---
 
 ## How to Use
-1. Open the `index.html` file in any modern browser.  
+1. Open the website in any modern browser using this link:  
+   **[View the Playbook](https://youtubeplaybook.netlify.app/)**  
 2. Navigate the playbook using the top navigation bar to access the following sections:
    - **Equipment & Products** – Links to tested and recommended cameras, lighting, microphones, and other gear.
    - **Microphone & Software Setup** – Step-by-step guidance for connecting microphones, recording audio, and syncing with video.
@@ -45,3 +46,4 @@ The project reflects a balance between **human input and AI assistance**, with A
 
 ## License
 This project is open-source and available for use, modification, and distribution.
+
